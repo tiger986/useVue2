@@ -1,0 +1,10 @@
+{
+    "apps": [
+        {
+            "name": "PrimecloudCollegeOfficialWebsite",
+            "script": "npm",
+            "args" : "start",
+            "watch": [".nuxt"]
+        }
+    ]
+}
